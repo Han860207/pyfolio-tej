@@ -1,7 +1,7 @@
 [project]
 name = "pyfolio-tej"
 description = "Performance and risk analysis of financial portfolios with Python"
-
+Home-page = "https://tquant.tejwin.com/"
 requires-python = '>=3.8'
 dynamic = ["version"]
 readme = "README.md"
